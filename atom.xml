@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://3468998.github.io</id>
+    <title>yu</title>
+    <updated>2024-05-01T04:46:03.705Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://3468998.github.io"/>
+    <link rel="self" href="https://3468998.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://3468998.github.io/images/avatar.png</logo>
+    <icon>https://3468998.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, yu</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://3468998.github.io/post/guan-yu-wo/</id>
+        <link href="https://3468998.github.io/post/guan-yu-wo/">
+        </link>
+        <updated>2024-04-28T14:55:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://3468998.github.io/post/ce-shi/</id>
+        <link href="https://3468998.github.io/post/ce-shi/">
+        </link>
+        <updated>2024-04-27T06:31:00.000Z</updated>
+    </entry>
+</feed>
